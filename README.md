@@ -1,5 +1,5 @@
 ### Hi there 👋
-⚗️ [climatelab.fr](https://climatelab.fr)  🔎 [amace.fr](https://amace.fr)
+⚗️ [climatelab.fr](https://climatelab.fr)  ✋ [amace.fr](https://amace.fr)
 
 <!--
 **alexandre-mace/alexandre-mace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
