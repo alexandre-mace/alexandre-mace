@@ -1,5 +1,5 @@
 ### Hi there 👋
-Full stack developer, currently working with symfony and react. I am dedicated to engaging in projects that focus on climate, biodiversity, and respect planetary boundaries.
+Full stack developer, currently working with symfony, next.js and react. Taking part in projects tied to climate or biodiversity.
 
 ⚗️ [climatelab.fr](https://climatelab.fr)  ✋ [alexandremace.fr](https://alexandremace.fr)
 
